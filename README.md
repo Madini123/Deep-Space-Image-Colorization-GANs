@@ -5,7 +5,7 @@ This project focuses on colorizing deep space grayscale images using Generative 
 
 GAN-DeepSpace-Colorization/
 │── README.md             # Project Overview
-│── .gitignore            # Files to ignore in Git
+
 │── notebooks/            # Jupyter Notebooks
 │   ├── Image_Colorization_in_GAN.ipynb
 
@@ -21,4 +21,5 @@ GAN-DeepSpace-Colorization/
 │   ├── EAML-1107-RESIN1_FINALREPORT.pdf
 
 │── requirements.txt      # Dependencies
+
 │── LICENSE               # License file
